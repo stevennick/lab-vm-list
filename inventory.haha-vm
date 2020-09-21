@@ -2,7 +2,7 @@
 ansible_user=ubuntu
 
 [node]
-haha-01-1 ansible_host=100.67.192.7
+haha-01-1 ansible_host=100.67.192.8
 haha-01-2 ansible_host=100.67.192.155
 haha-01-3 ansible_host=100.67.192.156
 haha-01-4 ansible_host=100.67.192.157
